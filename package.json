@@ -1,7 +1,7 @@
 {
   "name": "trello-beautify",
   "description": "custom markdown style for trello.com",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/smilekzs/trello-beautify",
   "author": {
     "name": "smilekzs"

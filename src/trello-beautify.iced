@@ -7,6 +7,6 @@ document.head.appendChild st
 setInterval (->
   for el in dup document.querySelectorAll '.markeddown'
     do (c = el.classList) ->
-      c.remove 'markeddown'
+      # c.remove 'markeddown'
       c.add 'mymd'
 ), 500
