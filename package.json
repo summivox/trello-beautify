@@ -2,16 +2,16 @@
   "name": "trello-beautify",
   "description": "custom markdown style for trello.com",
   "version": "0.1.1",
-  "homepage": "https://github.com/smilekzs/trello-beautify",
+  "homepage": "https://github.com/summivox/trello-beautify",
   "author": {
-    "name": "smilekzs"
+    "name": "summivox"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/smilekzs/trello-beautify.git"
+    "url": "git://github.com/summivox/trello-beautify.git"
   },
   "bugs": {
-    "url": "https://github.com/smilekzs/trello-beautify/issues"
+    "url": "https://github.com/summivox/trello-beautify/issues"
   },
   "licenses": [
     {
